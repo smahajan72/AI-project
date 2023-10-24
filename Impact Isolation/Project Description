@@ -4,4 +4,4 @@ Whenever either player occupies a cell, that cell becomes blocked for the remain
 The first player with no remaining legal moves loses, and the opponent is declared the winner.
 
 In this project, I'll build an game playing agent by implement adversarial searching algorithms (Minimax and AlphaBeta) to beat other players.
-These methods are in the submissions.py file.
+These methods are in the ProjectSubmission.py file.

@@ -1,3 +1,3 @@
-# AI-project
+# Shreya Mahajan projects
 
-Description
+This repository holds my technical projects, specifically in areas of Artificial Intelligence.

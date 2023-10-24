@@ -1,0 +1,2 @@
+For this project, I created a decision tree algorithm by first creating the confusion matrix, then implementing gini_impurity(), gini_gain(), and fit() to 
+calculate the splits of the tree. 

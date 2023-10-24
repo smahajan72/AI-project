@@ -1,1 +1,3 @@
-
+In this project, I built a word recognizer for American Sign Language (ASL) video sequences.
+In particular, I employed hidden Markov models (HMM's) to analyze a series of measurements taken from videos 
+of isolated American Sign Language (ASL) signs collected for research.
